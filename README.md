@@ -2,13 +2,6 @@
 
 A modern web application for managing mall shops, offers, and products using Firebase and responsive frontend technologies.
 
-
----
-## live demo
-
-📌  https://strong-pithivier-dd4bfe.netlify.app/
-
-
 ---
 
 ## 📌 Project Objective
@@ -48,7 +41,7 @@ To build a secure, scalable portal that allows:
 ---
 
 ## 🌐 Live Hosting (if available)
-`https://your-project-name.web.app`
+` https://strong-pithivier-dd4bfe.netlify.app/`
 
 ---
 
