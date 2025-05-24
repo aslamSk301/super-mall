@@ -25,7 +25,6 @@ To build a secure, scalable portal that allows:
 |----------|-------------|
 | Frontend | HTML, CSS, JavaScript |
 | Backend  | Firebase Firestore, Firebase Auth |
-| Hosting  | Firebase Hosting |
 | Auth     | Firebase Authentication |
 | Logging  | Custom JS Logger |
 
